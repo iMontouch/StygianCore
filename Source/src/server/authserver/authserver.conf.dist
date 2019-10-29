@@ -258,7 +258,7 @@ WrongPass.Logging = 0
 #                                                                           Unix/Linux)
 #        Default:     "127.0.0.1;3306;acore;acore;auth"
 
-LoginDatabaseInfo = "127.0.0.1;3306;acore;acore;acore_auth"
+LoginDatabaseInfo = "127.0.0.1;3306;acore;acore;stygian_auth"
 
 #
 #    LoginDatabase.WorkerThreads
