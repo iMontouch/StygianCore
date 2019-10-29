@@ -87,9 +87,9 @@ LogsDir = ""
 #                     "127.0.0.1;3306;acore;acore;world"      - (WorldDatabaseInfo)
 #                     "127.0.0.1;3306;acore;acore;characters" - (CharacterDatabaseInfo)
 
-LoginDatabaseInfo     = "127.0.0.1;3306;acore;acore;acore_auth"
-WorldDatabaseInfo     = "127.0.0.1;3306;acore;acore;acore_world"
-CharacterDatabaseInfo = "127.0.0.1;3306;acore;acore;acore_characters"
+LoginDatabaseInfo     = "127.0.0.1;3306;acore;acore;stygian_auth"
+WorldDatabaseInfo     = "127.0.0.1;3306;acore;acore;stygian_world"
+CharacterDatabaseInfo = "127.0.0.1;3306;acore;acore;stygian_characters"
 
 #
 #    LoginDatabase.WorkerThreads
