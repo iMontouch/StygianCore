@@ -9,7 +9,7 @@ COPY data /azerothcore/data
 COPY deps /azerothcore/deps
 COPY acore.json /azerothcore/acore.json
 
-RUN ./Source/bin/acore-db-asm 1
+RUN ./azerothcore/bin/acore-db-asm 1
 
 FROM mysql:5.7
 
